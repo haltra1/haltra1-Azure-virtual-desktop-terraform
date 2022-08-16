@@ -1,0 +1,1 @@
+# haltra1-Azure-virtual-desktop-terraform
