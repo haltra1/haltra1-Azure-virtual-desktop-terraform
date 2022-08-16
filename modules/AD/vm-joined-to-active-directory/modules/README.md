@@ -1,8 +1,8 @@
-## Terraform for AVD
+## Terraform for WVD
 
-The purpose of this repository is to develop using Terraform to deploy Azure Virutal Desktop formerly named Windows Virtual Desktop (WVD) on Microsoft Azure Cloud. 
+The purpose of this repository is to develop using Terraform to deploy Windows Virtual Desktop (WVD) on Microsoft Azure Cloud. 
 
-The **AVD-Terraform** directory contains the various components for building out AVD.
+The **WVD-Terraform** directory contains the various components for building out WVD.
 The directory **/modules** contains all of the shared infrastructure code.
 
 **Getting started:**
